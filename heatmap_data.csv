@@ -2,7 +2,7 @@ group,variable,value
 Alabama,MMR,7
 Alabama,IM,49
 Alabama,H,12
-Alaska,MMR,
+Alaska,MMR, 0
 Alaska,IM,37
 Alaska,H,1
 Arizona,MMR,25
@@ -131,7 +131,7 @@ Texas,H,49
 Utah,MMR,19
 Utah,IM,10
 Utah,H,32
-Vermont,MMR,
+Vermont,MMR, 0
 Vermont,IM,6
 Vermont,H,2
 Virginia,MMR,14
